@@ -1,0 +1,4 @@
+﻿namespace Andromeda
+
+module Compiler =
+    ()
